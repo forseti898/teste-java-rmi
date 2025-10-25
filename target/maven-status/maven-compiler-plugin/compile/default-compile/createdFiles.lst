@@ -1,0 +1,4 @@
+com\rmi\exemplo\comum\RemoteInterface.class
+com\rmi\exemplo\server\Server.class
+com\rmi\exemplo\server\Implement.class
+com\rmi\exemplo\client\Client.class
